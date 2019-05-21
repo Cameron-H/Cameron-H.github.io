@@ -8,7 +8,7 @@ Week One test.
 
 Evidence:
 
-![](/assets/ev1.jpg)
+![](/assets/ev1.JPG)
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
