@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Server decisions"
+date:   2019-04-09 16:32:22 +1200
+categories: jekyll update
+---
+After getting the API Sync lab working, Renz and I had to discuss how to create our own server to test with. Albert recommended ThingSpeak. A free API based server with a web interface to add Channels and fields. While it sounded like a good idea, in practice it was a bit fiddly. We didn't have a shared development email to use to sign up for services like ThingSpeak. After Renz created a Google account that we all could access, we created an account and started to work out how to use it. After trying to add channels and fields, we realised that it was just a little to complicated for what we were trying to do. 
+
+Doing some research, looking at Firebase and MySQL servers. I suggested we use a locally created server here at Polytech. I'm currently doing the Web 3 paper and we've just learned how to set up out own web and database server from scratch.
+
+Consulting with the team leaders and the head of the DevOPS team, I got the go ahead to try and organise a server that we could use to test our Google Maps app. I emailed one of the students that are a part of the DevOPS project and got told that I should make a ticket about my request.
+
+
+![](/assets/ev6.JPG)
+<br>
+![](/assets/ev7.JPG)
+
+I submitted a ticket and waited for the reply. In the meantime, I worked out how I was going to do it. Planning out what I need to install etc.
+
+
+
+
+
+
+

@@ -1,16 +1,18 @@
 ---
 layout: post
-title:  "Project One - Week One"
+title:  "A new beginning"
 date:   2019-02-18 16:32:22 +1200
 categories: jekyll update
 ---
-Week One test. 
+The first few weeks of the semester were establishing who the client was and what they were after. Adon supplied Renz and I with a booklet about the company, Enabling Love and their business decisions. I spent the first couple of sessions understanding what the client was wanting and working out how I was going to achieve it.
 
-Evidence:
+![](/assets/ev2.JPG)
 
-![](/assets/ev1.JPG)
+Enabling Love already have a website which was very useful as we had not been given much information. The booklet only contained marketing information and didn't really help us work out what exactly was needed.
 
+The Login/Register page is good information as it told me that they already have an account system in place. This means that they have a database which we would need access to so we can work out existing users accounts.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![](/assets/ev3.JPG)
+
+Overall, the first week went well with the limited resources we had available.
+

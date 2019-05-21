@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Understanding API Sync"
+date:   2019-03-25 16:32:22 +1200
+categories: jekyll update
+---
+Now that Renz and I had a working Google Maps app, our task was to work on having two users show up on the map. Talking to Albert, he suggested that I work on doing the API sync practical from last year. This practical gave a good in depth look into how to do it and would allow me to use that code in the project. 
+
+I am currently taking the mobile paper at the same time as working on this project so I found it difficult to work ahead of schedule and do week 9's lab in week 4/5. 
+
+![](/assets/ev1.JPG)
+
+The reason for doing this lab, is to understand how to use API's and how they integrate into the Android application. 
+
+Renz and I discussed in class to communicate with their server using API keys, the JSON would then be parsed/sorted so the location information (longitude/latitude) and be differentiated by a username. The location info could then be used to plot points on the map and then we could calculate the distance between the two users.
+
+
+
+
+
+
