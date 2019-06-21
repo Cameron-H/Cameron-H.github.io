@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Changing direction"
+date:   2019-05-06 16:32:22 +1200
+categories: jekyll update
+---
+While I was working on getting the users from the database displaying on the app, Adon came and spoke to Renz and I about stopping working in Java,and switch to using React Native, a newer more efficient language that also is compatible with iOS. I have personally never used React Native to make and Android app. so my first task was research how to set it up and start building a basic hello world app, conviently, we were learning about React js in Web 3 so I already had a basic understanding of how it worked. 
+
+Following the tutorial on the React Native website, I installed all of the nessessary packages and then got it to work with the Android Studio Emulator.
+
+
+![](/assets/ev28.png)
+
+
+
+
+
+
+
+
+
+

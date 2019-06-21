@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Merging"
+date:   2019-05-25 16:32:22 +1200
+categories: jekyll update
+---
+Now that I had done the 'Tinder Clone' swiping. I had to then put that onto the basic navigation app that Renz was working on. This consists of a bottom navigation bar and side menu. I told him to push what he had done to the Enabling Love repo so I could pull it and add what I've done. I just put in the third screen as it was empty. Looking at the design of the app from the design students, it goes on the fourth screen. I can move what I have done to the fourth screen later, as it should more or less be a cut and paste of my code. 
+
+![](/assets/ev14.JPG)
+
+Looking at the photo above, you can see I had to make the cards smaller so that they would fit within the navigation bar and header bar. 
+<br>
+This was the code I had to modify so that it would fit correctly. I am probably going to move it up a bit in the future as the designs have two buttons below the cards in case you don't want to swipe.
+
+![](/assets/ev15.JPG)
+
+
+
+
+
+
+

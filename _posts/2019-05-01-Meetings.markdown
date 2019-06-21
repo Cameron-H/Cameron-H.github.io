@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Client meetings"
+date:   2019-05-25 16:32:22 +1200
+categories: jekyll update
+---
+
+<b> First Meeting </b>
+
+The first meeting I went to wasn't about the Enabling Love app. It was about getting feedback for re-designing the D block. 
+
+![](/assets/ev23.JPG)
+
+<br>
+
+<b> Second Meeting </b> 
+
+The second meeting with the client was just about introducing ourselves and discussing the design of the website and app. The main focus of the meeting was about the design students and getting feedback on their project. Renz and I just went a long to see what was going on and to get an idea of what the app looked like.
+
+![](/assets/ev26.JPG)
+
+<br>
+<b> Third Meeting </b>
+
+The third meeting with the client was about the design students getting the final feedback for the app and website design. Renz, Grayson and I also discussed what we had been up to and getting more information on the server that will be used for the app.
+
+![](/assets/ev24.JPG)
+
+<br>
+<b> Fourth Meeting </b>
+
+The final meeting was just Albert and I and it was very similar to the previous meeting. It was just about what we have done so far (Basic navigation & swiping) and about when we plan to have it done by. (Four weeks after semester two starts - end of July/August). 
+
+![](/assets/ev25.JPG)
+
+
+
+
+
+
+
+
+
