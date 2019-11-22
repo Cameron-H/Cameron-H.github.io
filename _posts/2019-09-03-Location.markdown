@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Location"
+date:   2019-09-03 16:32:22 +1200
+categories: jekyll update
+---
+The next step to making the swiping cards work is to add location. This will be used to calculate the distance between each user. I have impleneted it in a way that everytime that the user clicks on that screen, it will grab the current location and then update the longitude and latitude fields in the real time database.
+
+The findCoordinates function gets the current users coordinates and converts the output from a JSON to a string using JSON.stringify. After that, the location state is set. The findCurrentLocationAsync is an asynchronous function that asks for permission to access location and then if granted, runs the getCurrentPosition function to set give more location data.  
+<br>
+![](/assets/project 2/location.JPG)
+
+Knowing the users location will also enable us to implement a way of filtering the distance of all users. We will also be able to be able to add there distance away from current user next to their name on the swiping screen.

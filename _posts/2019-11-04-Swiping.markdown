@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Swiping"
+date:   2019-11-04 16:32:22 +1200
+categories: jekyll update
+---
+Last semester, I had implented swipe cards that used photos stored locally. The task was to get this working with real users who have signed up. As well as displaying users, they would need the opportunity to swipe right to 'Like' them or swipe left to 'Nope' them. This meant using Firebase's real-time database to sort through suggestions and add yes and nope fields. 
+
+After a new user signs up, the existing users will have the new users data added to their suggestions directory. The new user will also have the all existing users data in their suggestions directory.
+
+Once a user has swiped right or left on a user, they will be removed from the suggestions directory. 
+
+
+This showing how we load suggestions/potential friends and current user information. 
+![](/assets/project 2/swipe1.JPG)
+
+The user swipes right on another users picture a new folder is created in the Fireabse real-time database called matches. It will have a parent folder which is called the CurrentUserID and child folder of the potential match with a response to the swipe. So if the user swipes right it will have a data saying "Yes" and if they swipe left, then it will add a "No".
+![](/assets/project 2/swipeFirebase.JPG)
+
+This is the completed swiping page that is currently live on the Google Play store. 
+![](/assets/project 2/swiping.jpg)
+
+

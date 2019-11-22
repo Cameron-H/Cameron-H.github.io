@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Firebase"
+date:   2019-08-05 16:32:22 +1200
+categories: jekyll update
+---
+My first ticket for the semester is creating a Firebase server for our app. This is different from a normal mobile app because we're using React Native. This means that Firebase treats the app as a Web App. Luckily there are some good tutorials that I followed to help me set it up correctly. The google acount used was the Enabling Love account that Renz set up last semester. We're just using the free Firebase plan as we don't think that the app will have enough users to exceed the database quota. I also studied how the Firebase works and how to use it. How the real-time database and account creation works, also specifically how to set, update, remove and get data from the database. I felt that these things were the most important items we needed to know for our app.
+
+This is the configuration file that is required for the app to communicate with Firebase. This config can be found in the Firebase project settings.
+
+![](/assets/project 2/firebaseconfig.JPG)
+
+To use Firebase in other screens and classes, it's just one import line. 
+<br>
+<code>import firebase from 'firebase';</code>
+
+
+
+

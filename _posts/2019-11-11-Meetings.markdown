@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Client meetings and communication"
+date:   2019-11-11 16:32:22 +1200
+categories: jekyll update
+---
+Throughout the semester, I have been communticating with the client, Joshua Perry about updates with the application and to set up meetings.
+
+We had a total of three meetings discussing what we had done and what we were working on. On the last meeting Thursday 14th, Josh and his team didn't show up to the meeting.
+
+All meetings went well, with the client knowing what we were up to and what we had done and Renz and I knowing what we should prioritise.
+
+An email was sent to Martin Kean about information regarding the database that Enabling Love already uses. I have not yet received a reply.
+
+
+![](/assets/project 2/email1.JPG)
+<br>
+![](/assets/project 2/email2.JPG)
+<br>
+![](/assets/project 2/email3.JPG)
+<br>
+![](/assets/project 2/email4.JPG)
+
+
+

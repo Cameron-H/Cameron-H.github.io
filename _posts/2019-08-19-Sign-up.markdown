@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Sign Up"
+date:   2019-08-19 16:32:22 +1200
+categories: jekyll update
+---
+
+Making the sign up page work involved sending all information to the real time database and using firebase's account creation function which uses an email and password. All fields have to be validated to make sure that the user doesn't input any invalid strings/numbers. After clicking the sign up button, the user would be directed to the home page. 
+
+Fields used in the sign up process:
+- First name
+- Last name
+- Email address
+- Password
+- Confirm password
+
+Later additions will include:
+- Date of birth (Date picker)
+- Gender (Radio buttons)
+- Profile picture (Circle with button)
+
+
+These are the validation functions. They take a string input and test if they have the correct characters.  
+![](/assets/project 2/validation.JPG)
+
+This shows the method handling account creation. Accounts can be created using Firebases's createUserWithEmailAndPassword method. The email and password data is all that's required to create an account.
+![](/assets/project 2/signupMethod.JPG)
+
+
+Another task was to try and link the users account to the information stored on the real time database, to do this you need to link the currrentUser.uid. When referencing and pushing to the real-time database, the currentUser.uid is added after the /users. This creates a directory which is called the same as Firebase's authentication account ID. This means that we can identify each user when working on the swiping, messaging and timeline pages later on.

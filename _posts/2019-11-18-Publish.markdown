@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Publishing, documentation and reflection"
+date:   2019-11-18 16:32:22 +1200
+categories: jekyll update
+---
+
+After doing a final merge with Renz and I's work, I set about building the apk and publishing it on the Google Play Store. I had tried doing this before and got the error saying that there was another app with the same package name "com.reactnativeproject". To fix this, I had to manually go through the project changing all the package names. I changed everything to "enablinglove".
+
+[Link to reference](https://stackoverflow.com/questions/54151921/react-native-cannot-change-package-name-always-failing)
+
+To bundle to the APK, I ran this command.
+
+<code> react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res </code>
+
+Then building the release APK.
+
+<code> gradlew assembleRelease </code>
+
+I then tested it on the emulator by uninstalling the debug APK and installing the release one by running this command in the same directory as the APK:
+
+<code> adb install -r "enabling love +-release.apk" </code>
+
+After testing everything to make sure it worked, I proceeded to log into the Google Play Console and publish the app.
+
+To get the app published using the Google Play Console, I did the following:
+- Used Adobe Photoshop to create the banner.
+- Took screenshots and resized all photos.
+- Generated and modified a privacy policy which I'm hosting using GitHub pages.
+- Wrote a short description of the app.
+
+
+![](/assets/project 2/playStore.JPG)
+
+Finally, I updated the readme file on our Enabling Love repo. I have given added screenshots and given overview of each screen of the app explaining what it does.
+
+[Link to README](https://gitlab.op-bit.nz/BIT/Project/Mobile-Development/enabling-love/blob/master/README.md)
+
+<b>Reflection</b>
+<br>
+What went well: Getting the functionality of the app working and implenting the design given to us from the design students. Communication with the client was good and that helped make sure that they were happy with what Renz and I were doing. 
+
+What didn't go well: I took to long to implement the designs. It took a while for me to do this because I wasn't too familiar with how React Native styling works. After doing a couple of screens, I figured it out and managed to do it quickly. 
+
+What I need to do for next time: For next time, I need to ask questions and prioritise the work I need I done. I need to keep up my good communication with the client and keep setting good weekly goals/sprints.
+
+
+
+

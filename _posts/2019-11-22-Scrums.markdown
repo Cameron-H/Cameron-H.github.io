@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Scrums"
+date:   2019-11-22 16:32:22 +1200
+categories: jekyll update
+---
+
+Every week in class, we would have a Scrum where we would talk about what we had done and what we were going to do. This would prove valuable to me as I would have the opportunity to ask any questions that I had about the work I was doing.
+
+
+![](/assets/project 2/meeting1.JPG)
+<br>
+
+![](/assets/project 2/meeting2.JPG)
+<br>
+
+![](/assets/project 2/meeting3.JPG)
+<br>
+
+![](/assets/project 2/meeting4.JPG)
+<br>
+
+![](/assets/project 2/meeting5.JPG)
+
+

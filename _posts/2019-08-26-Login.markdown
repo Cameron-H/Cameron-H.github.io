@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Login"
+date:   2019-08-26 16:32:22 +1200
+categories: jekyll update
+---
+
+To test the newly created accounts, the next step would be to make the login page work. This means feeding in user input (Email and password), to the firebase function signInWithEmailAndPasssword(). I have also implemnted error handling to make sure the user knows if the email or password is wrong.
+
+Both email and password text inputs get run through validation methods. The same as the sign up page ones. This insures the user doesn't try and login with invalid strings.
+
+After a user types in either of the text input boxes, the state of the email and password variable are updated using the inputs onChange function. 
+
+The handleLogin function is called after both, the email address and password field have passed validation. If not, an alert box will pop up telling the user what the problem is. If everything is fine, it will take the users input and put them into to Firebase's sign in method. After that, it will navigate to the first screen of the application. 
+<br>
+![](/assets/project 2/loginFunction.JPG)
+
