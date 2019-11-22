@@ -15,4 +15,4 @@ Old design
 ![](/assets/project 2/oldSignUp.png)
 
 New design
-![](/assets/project 2/signupUI.JPG)
+![](/assets/project 2/signupUI.jpg)
