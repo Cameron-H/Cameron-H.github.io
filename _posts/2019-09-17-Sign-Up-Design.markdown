@@ -13,6 +13,6 @@ I made the layout as simple as possible so it makes signing up a quick and seaml
 
 Old design
 ![](/assets/project 2/oldSignUp.png)
-
+<br>
 New design
 ![](/assets/project 2/signupUI.jpg)
